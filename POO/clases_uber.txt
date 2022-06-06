@@ -1,0 +1,19 @@
+ACCOUNT
+    USER
+    DRIVER
+
+PAYMENTS
+    CARD
+    PAYPAL 
+    CASH
+
+CARS
+    UBERX
+    UBERPOOL
+    UBERBLACK
+    UBERVAN
+
+    
+ROUTE
+TRIP
+
